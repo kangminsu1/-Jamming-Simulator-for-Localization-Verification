@@ -15,7 +15,7 @@ Noise 재밍, 스푸핑, 미코닝 등이 작성되어 있으며, NMEA-0813 규�
 
 [Paper](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO202113855736872&dbt=NART)
 
-[Copyright](https://www.cros.or.kr/psnsys/cmmn/infoPage.do?w2xPath=/ui/twc/sch/regInfSerc/regInfSercDtl.xml)
+[Copyright](https://www.cros.or.kr/psnsys/cmmn/infoPage.do?w2xPath=/ui/twc/sch/regInfSerc/regInfSercList.xml)
 
 
 ## How to
